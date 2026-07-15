@@ -73,8 +73,7 @@ ROS 2 Nav2 Stack
 
 | Dependency | Version |
 |---|---|
-| ROS 2 |<img width="640" height="360" alt="hybrid_astar_demo" src="https://github.com/user-attachments/assets/8a358022-8faf-44e2-8372-f753e3c75bbd" />
- Humble |
+| ROS 2 | Humble |
 | Nav2 | matching ROS 2 version |
 | OMPL | 1.5+ (for ReedsSheppStateSpace) |
 | C++ | 17 |
